@@ -1,0 +1,19 @@
+{
+  "name": "私房菜谱 · 自己做饭的地方",
+  "short_name": "私房菜谱",
+  "description": "大菜、减脂菜、小孩菜、快手菜的家常做法，装到手机上可以离线看",
+  "id": "recipe-pwa",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f1",
+  "theme_color": "#e2571f",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

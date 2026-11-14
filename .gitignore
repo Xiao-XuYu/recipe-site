@@ -80,7 +80,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# dist 是发布网页产物，去掉默认忽略以便提交
 .output
 
 # Gatsby files
